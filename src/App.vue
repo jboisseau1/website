@@ -1,5 +1,6 @@
 <template>
-  <div id="app">
+  <div>
+    <h1>title</h1>
   </div>
 </template>
 
